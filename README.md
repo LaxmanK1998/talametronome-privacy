@@ -1,4 +1,4 @@
-**Privacy Policy for TalaMetronome**
+<h1>Privacy Policy for TalaMetronome</h1>
 
 Last Updated: August 10, 2026
 Kamatsoft ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how our mobile application handles user information and data.
